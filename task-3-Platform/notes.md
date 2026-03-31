@@ -9,7 +9,8 @@ Coding platforms like HackerRank are useful for practicing programming, improvin
 
 Google Workspace Collaboration
 
-In this part, I created a Google Form based on Digital Literacy Awareness. The form contains 5 questions, including multiple-choice and short answer types. This form can be used to test the basic knowledge of students about digital literacy.
+In this part, I created a Google Form based on Digital Literacy Awareness. The form contains 5 questions, including multiple-choice . This form can be used to test the basic knowledge of students about digital literacy.
+here is the form link - https://docs.google.com/forms/d/e/1FAIpQLSc_7-hgbvI5mc6XudMRYpJQxMFBq18SSh3-Od44yT0SYm8HTw/viewform?usp=publish-editor
 
 I also viewed the responses using Google Sheets, which helps in organizing and analyzing the data collected from the form.
 
